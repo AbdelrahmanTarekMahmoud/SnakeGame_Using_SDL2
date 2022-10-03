@@ -1,4 +1,7 @@
 # Snake Game Using SDL2 (IN C++)
+## Game informations
+* The Game divided to 4 difficulty mode
+
 
 
 ## Dependencies for Running Locally
