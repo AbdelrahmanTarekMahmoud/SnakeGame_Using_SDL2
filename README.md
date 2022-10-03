@@ -2,6 +2,11 @@
 ## Game informations
 * The Game divided to 4 difficulty modes (Easy , Medium , Hard , SuperSaiyan)
 * Every mode is unique by its Speed increase And the obstacles u will face 
+## Games General Construction
+![Screenshot 2022-10-02 082106](https://user-images.githubusercontent.com/85140058/193512286-ceffabe4-8472-4a77-8bbd-af5ae28b151d.jpg)
+
+## This Program  Construction 
+![images](https://user-images.githubusercontent.com/85140058/193512208-4bc39db7-6048-40a0-9513-4ecaa65985d4.png)
 
 ## Dependencies for Running Locally
 * cmake >= 3.7
