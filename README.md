@@ -1,8 +1,7 @@
 # Snake Game Using SDL2 (IN C++)
 ## Game informations
-* The Game divided to 4 difficulty mode
-** Easy
-
+* The Game divided to 4 difficulty modes (Easy , Medium , Hard , SuperSaiyan)
+* Every mode is unique by its Speed increase And the obstacles u will face 
 
 ## Dependencies for Running Locally
 * cmake >= 3.7
